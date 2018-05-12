@@ -1,0 +1,32 @@
+_repo: A-Young-Man-in-a-Hurry-and-Other-Short-Stories_27374
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 27374-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Chambers, Robert W. (Robert William)
+    alias: Chambers, Robert William
+    birthdate: 1865
+    deathdate: 1933
+    gutenberg_agent_id: '38191'
+    url: http://www.gutenberg.org/2009/agents/38191
+    wikipedia: http://en.wikipedia.org/wiki/Robert_W._Chambers
+description: ''
+gutenberg_issued: '2008-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27374'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Short stories'
+- !lcsh 'United States -- Social life and customs -- Fiction'
+tableOfContents: A young man in a hurry -- A pilgrim -- The shining band -- One man
+  in a million -- The fire-warden -- The market-hunter -- The path-master -- In Nauvoo
+  -- Marlitt's shoes -- Pasque Florida.
+title: A Young Man in a Hurry, and Other Short Stories
+url: http://www.gutenberg.org/ebooks/27374
